@@ -9,3 +9,5 @@ My solutions to [Advent of Code 2023](https://adventofcode.com/2023)
 5. https://replit.com/@dorincustura/DC-Python-AoC2023-5 & https://replit.com/@dorincustura/DC-Python-AoC2023-5-2nd
 6. https://replit.com/@dorincustura/DC-Python-AoC2023-6 & https://replit.com/@dorincustura/DC-Python-AoC2023-6-2nd
 7. https://replit.com/@dorincustura/DC-Python-AoC2023-7 & https://replit.com/@dorincustura/DC-Python-AoC2023-7-2nd
+8. https://replit.com/@dorincustura/DC-Python-AoC2023-8 & https://replit.com/@dorincustura/DC-Python-AoC2023-8-2nd
+9. https://replit.com/@dorincustura/DC-Python-AoC2023-9
